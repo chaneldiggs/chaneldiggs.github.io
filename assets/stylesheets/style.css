@@ -1,0 +1,75 @@
+h1 {
+	color: black;
+	font-size: 30px;
+	border-bottom: 5px solid black;
+	padding-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.portfolio {
+	padding-bottom: 50px;
+}
+
+.index {
+	padding-left: 60px;
+	padding-top: 20px;
+	color: #900C3F;
+}
+
+.index_p {
+	padding-left: 60px;
+	padding-right: 40px;
+	font-weight: bold;
+}
+
+.video{
+	text-align: center;
+	padding-top: 100px;
+	color: #FC6401;
+ 
+}
+
+.video_p {
+	padding-top: 10px;
+	padding-right: 300px;
+	padding-left: 340px;
+	font-weight: bold;
+}	
+
+div {
+	text-align: center
+}
+
+table {
+	text-align: center;
+}
+
+.footer {
+	border-top: 5px solid black;
+	padding-top: 5px;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+	padding: 1px;
+}
+
+h2 {
+	padding-top: 50px;
+	padding-left: 50px;
+}
+    
+.bio {
+	padding-top: 10px;
+	text-decoration: underline;
+}
+
+.me {
+	border-radius: 70%;
+}
+
+.home {
+	padding-top: 30px;
+}
